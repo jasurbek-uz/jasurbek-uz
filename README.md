@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasurbek-uz&label=Profile%20views&color=0e75b6&style=flat" alt="jasurbek-uz" /> </p>
 
-- 🔭 I’m currently working on **my Web project**
+- 🔭 I’m currently working on **my Web project such as Burak Restaurant and Nestar housing projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS, Nest.js and Next.js**
 
-- 💬 Ask me about **html, css and sass**
+- 💬 Ask me about **MVC, MVP, MVVM, Independency Injection and Microservices**
 
 - 📫 How to reach me **braveredmi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: braveredmi@gmail.com and tel:01083505873</h3>
 <p align="left">
 </p>
 

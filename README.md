@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Web projects such as Burak Restaurant and Nestar housing projects**
 
-- 🌱 I’m currently learning **React JS, Nest.js and Next.js**
+- 🌱 I’m currently learning ** Nodejs, Express.js, React JS, Nest.js and Next.js**
 
 - 💬 Ask me about **MVC, MVP, MVVM, Independency Injection and Microservices**
 
